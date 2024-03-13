@@ -3,7 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
-import NavLinks from "./NavLinks";
+import NavLinks from "./navLinks";
 import { motion } from "framer-motion";
 
 const links = [
